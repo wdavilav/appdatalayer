@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <title>{{ title }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" sizes="32x32" href="{% static 'img/logotipo.png' %}">
+    <!-- Estilos y scripts de Bootstrap -->
+    <link rel="stylesheet" href="{% static 'lib/bootstrap-5.0.2/css/bootstrap.min.css' %}">
+    <script src="{% static 'lib/bootstrap-5.0.2/js/bootstrap.bundle.min.js' %}"></script>
+    <script src="{% static 'lib/bootstrap-5.0.2/js/jquery.min.js' %}"></script>
+    <!-- Scripts y estilos de jQuery Confirm -->
+    <script src="{% static 'lib/jquery-confirm-3.3.4/js/jquery-confirm.min.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'lib/jquery-confirm-3.3.4/css/jquery-confirm.min.css' %}"/>
+    <!-- Scripts y estilos de SweetAlert2 -->
+    <script src="{% static 'lib/sweetalert2-11.0.16/js/sweetalert2.all.min.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'lib/sweetalert2-11.0.16/css/sweetalert2.min.css' %}"/>
+    <!-- Scripts de jQuery Loading Overlay -->
+    <script src="{% static 'lib/jquery-loading-overlay-2.1.7/js/loadingoverlay.min.js' %}"></script>
+    <script src="https://maps.google.com/maps/api/js?key={{ KEY_GOOGLE_MAPS }}&amp;libraries=places"></script>
+    <!-- Scripts personalizados de tu proyecto -->
+    <script src="{% static 'js/main.js' %}"></script>
+    <script src="{% static 'js/functions.js' %}"></script>
+    <script src="{% static 'js/index.js' %}"></script>
+</head>
+<body>
+
+<div class="container-fluid p-5 bg-primary text-white text-center">
+    <h1>{{ title }}</h1>
+    <p>Ejemplo controlado</p>
+</div>
+
+<div class="container-md mt-5">
+    <div class="row">
+        <div class="col-sm-8">
+            <div class="card p-3">
+                <h3>Mapa</h3>
+                <div id="map" class="card p-3" style="width: 100%; height: 450px;"></div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card p-3">
+                <h3>Datos</h3>
+                <small>Da un click sobre el marcador</small>
+                <hr>
+                <p id="data"></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

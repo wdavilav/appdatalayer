@@ -1,0 +1,427 @@
+[
+  {
+    "names": "William Dávila",
+    "latitude": "-2.196160",
+    "longitude": "-79.886209"
+  },
+  {
+    "names": "María Pérez",
+    "latitude": "-2.207578",
+    "longitude": "-79.900539"
+  },
+  {
+    "names": "Juan Rodríguez",
+    "latitude": "-2.206797",
+    "longitude": "-79.892609"
+  },
+  {
+    "names": "Luis González",
+    "latitude": "-2.195167",
+    "longitude": "-79.883737"
+  },
+  {
+    "names": "Ana Martínez",
+    "latitude": "-2.192050",
+    "longitude": "-79.878810"
+  },
+  {
+    "names": "Carlos Sánchez",
+    "latitude": "-2.201482",
+    "longitude": "-79.889640"
+  },
+  {
+    "names": "Marta López",
+    "latitude": "-2.210581",
+    "longitude": "-79.904731"
+  },
+  {
+    "names": "Pedro Pérez",
+    "latitude": "-2.213498",
+    "longitude": "-79.912067"
+  },
+  {
+    "names": "Sofía Torres",
+    "latitude": "-2.209387",
+    "longitude": "-79.903764"
+  },
+  {
+    "names": "Javier Cordero",
+    "latitude": "-2.214547",
+    "longitude": "-79.918739"
+  },
+  {
+    "names": "Valeria Gómez",
+    "latitude": "-2.218995",
+    "longitude": "-79.926212"
+  },
+  {
+    "names": "Eduardo Vargas",
+    "latitude": "-2.207338",
+    "longitude": "-79.900191"
+  },
+  {
+    "names": "Isabel Ramírez",
+    "latitude": "-2.204081",
+    "longitude": "-79.895503"
+  },
+  {
+    "names": "Fernando Mendoza",
+    "latitude": "-2.202342",
+    "longitude": "-79.891647"
+  },
+  {
+    "names": "Laura Díaz",
+    "latitude": "-2.206294",
+    "longitude": "-79.897272"
+  },
+  {
+    "names": "Héctor González",
+    "latitude": "-2.208936",
+    "longitude": "-79.906001"
+  },
+  {
+    "names": "Valentina Silva",
+    "latitude": "-2.217683",
+    "longitude": "-79.920986"
+  },
+  {
+    "names": "Andrés Gutiérrez",
+    "latitude": "-2.210962",
+    "longitude": "-79.911137"
+  },
+  {
+    "names": "Carolina Fernández",
+    "latitude": "-2.216847",
+    "longitude": "-79.920446"
+  },
+  {
+    "names": "Gabriel Castro",
+    "latitude": "-2.203562",
+    "longitude": "-79.893657"
+  },
+  {
+    "names": "Paula López",
+    "latitude": "-2.211238",
+    "longitude": "-79.913279"
+  },
+  {
+    "names": "Ricardo Ortiz",
+    "latitude": "-2.203045",
+    "longitude": "-79.890875"
+  },
+  {
+    "names": "Elena Morales",
+    "latitude": "-2.213220",
+    "longitude": "-79.916394"
+  },
+  {
+    "names": "José Ramón",
+    "latitude": "-2.201875",
+    "longitude": "-79.903121"
+  },
+  {
+    "names": "Cristina Navarro",
+    "latitude": "-2.205432",
+    "longitude": "-79.897479"
+  },
+  {
+    "names": "Mateo Torres",
+    "latitude": "-2.204560",
+    "longitude": "-79.896446"
+  },
+  {
+    "names": "Susana Pérez",
+    "latitude": "-2.199877",
+    "longitude": "-79.888071"
+  },
+  {
+    "names": "Emilio Espinosa",
+    "latitude": "-2.207190",
+    "longitude": "-79.901005"
+  },
+  {
+    "names": "Diana León",
+    "latitude": "-2.215123",
+    "longitude": "-79.914345"
+  },
+  {
+    "names": "Manuel Alvarado",
+    "latitude": "-2.202703",
+    "longitude": "-79.892305"
+  },
+  {
+    "names": "Silvia Ríos",
+    "latitude": "-2.199361",
+    "longitude": "-79.885273"
+  },
+  {
+    "names": "Raúl Martínez",
+    "latitude": "-2.216025",
+    "longitude": "-79.919806"
+  },
+  {
+    "names": "Natalia Romero",
+    "latitude": "-2.209119",
+    "longitude": "-79.907801"
+  },
+  {
+    "names": "Miguel Ruiz",
+    "latitude": "-2.211956",
+    "longitude": "-79.911759"
+  },
+  {
+    "names": "Alicia Herrera",
+    "latitude": "-2.203045",
+    "longitude": "-79.890298"
+  },
+  {
+    "names": "Diego Castro",
+    "latitude": "-2.206485",
+    "longitude": "-79.899735"
+  },
+  {
+    "names": "Adriana Salgado",
+    "latitude": "-2.216477",
+    "longitude": "-79.920015"
+  },
+  {
+    "names": "Gustavo Cordero",
+    "latitude": "-2.213498",
+    "longitude": "-79.914947"
+  },
+  {
+    "names": "Fabiola Mendoza",
+    "latitude": "-2.214711",
+    "longitude": "-79.917125"
+  },
+  {
+    "names": "Rafael Guzmán",
+    "latitude": "-2.205105",
+    "longitude": "-79.895930"
+  },
+  {
+    "names": "Marcela Gómez",
+    "latitude": "-2.200401",
+    "longitude": "-79.887600"
+  },
+  {
+    "names": "Arturo Zambrano",
+    "latitude": "-2.207008",
+    "longitude": "-79.901691"
+  },
+  {
+    "names": "Gabriela Sánchez",
+    "latitude": "-2.210223",
+    "longitude": "-79.906589"
+  },
+  {
+    "names": "Julio Castro",
+    "latitude": "-2.213147",
+    "longitude": "-79.915268"
+  },
+  {
+    "names": "Beatriz León",
+    "latitude": "-2.208696",
+    "longitude": "-79.904488"
+  },
+  {
+    "names": "Sebastián Cordero",
+    "latitude": "-2.204932",
+    "longitude": "-79.897859"
+  },
+  {
+    "names": "Antonia Martínez",
+    "latitude": "-2.212140",
+    "longitude": "-79.912836"
+  },
+  {
+    "names": "Ricardo González",
+    "latitude": "-2.196783",
+    "longitude": "-79.886672"
+  },
+  {
+    "names": "Valeria Morales",
+    "latitude": "-2.217395",
+    "longitude": "-79.919319"
+  },
+  {
+    "names": "Eduardo Sánchez",
+    "latitude": "-2.212414",
+    "longitude": "-79.913855"
+  },
+  {
+    "names": "Isabel Castro",
+    "latitude": "-2.202790",
+    "longitude": "-79.893993"
+  },
+  {
+    "names": "Andrés Pérez",
+    "latitude": "-2.201351",
+    "longitude": "-79.890375"
+  },
+  {
+    "names": "Mariana Mendoza",
+    "latitude": "-2.198054",
+    "longitude": "-79.886761"
+  },
+  {
+    "names": "Roberto Martínez",
+    "latitude": "-2.206894",
+    "longitude": "-79.902451"
+  },
+  {
+    "names": "Fernanda López",
+    "latitude": "-2.197413",
+    "longitude": "-79.887406"
+  },
+  {
+    "names": "Gonzalo Díaz",
+    "latitude": "-2.204986",
+    "longitude": "-79.897160"
+  },
+  {
+    "names": "Camila Torres",
+    "latitude": "-2.199719",
+    "longitude": "-79.888547"
+  },
+  {
+    "names": "Jorge Castro",
+    "latitude": "-2.207890",
+    "longitude": "-79.902923"
+  },
+  {
+    "names": "Lucía Ramírez",
+    "latitude": "-2.215462",
+    "longitude": "-79.916977"
+  },
+  {
+    "names": "Javier López",
+    "latitude": "-2.214015",
+    "longitude": "-79.916092"
+  },
+  {
+    "names": "Paola Sánchez",
+    "latitude": "-2.208564",
+    "longitude": "-79.903588"
+  },
+  {
+    "names": "José Martínez",
+    "latitude": "-2.197551",
+    "longitude": "-79.886896"
+  },
+  {
+    "names": "Cecilia Morales",
+    "latitude": "-2.201617",
+    "longitude": "-79.890759"
+  },
+  {
+    "names": "Martín González",
+    "latitude": "-2.210162",
+    "longitude": "-79.909777"
+  },
+  {
+    "names": "Rosa Pérez",
+    "latitude": "-2.203636",
+    "longitude": "-79.893361"
+  },
+  {
+    "names": "Diego Torres",
+    "latitude": "-2.206038",
+    "longitude": "-79.900655"
+  },
+  {
+    "names": "Patricia Sánchez",
+    "latitude": "-2.215749",
+    "longitude": "-79.917828"
+  },
+  {
+    "names": "Pablo Castro",
+    "latitude": "-2.209924",
+    "longitude": "-79.905083"
+  },
+  {
+    "names": "Cristina León",
+    "latitude": "-2.197124",
+    "longitude": "-79.886478"
+  },
+  {
+    "names": "Luis Martínez",
+    "latitude": "-2.211816",
+    "longitude": "-79.911983"
+  },
+  {
+    "names": "Natalia González",
+    "latitude": "-2.198593",
+    "longitude": "-79.887768"
+  },
+  {
+    "names": "Gabriel Sánchez",
+    "latitude": "-2.204789",
+    "longitude": "-79.896049"
+  },
+  {
+    "names": "Alejandra Castro",
+    "latitude": "-2.205845",
+    "longitude": "-79.898252"
+  },
+  {
+    "names": "Jorge González",
+    "latitude": "-2.213917",
+    "longitude": "-79.917709"
+  },
+  {
+    "names": "Valeria Martínez",
+    "latitude": "-2.199605",
+    "longitude": "-79.888788"
+  },
+  {
+    "names": "Andrés López",
+    "latitude": "-2.201881",
+    "longitude": "-79.891038"
+  },
+  {
+    "names": "María Torres",
+    "latitude": "-2.214975",
+    "longitude": "-79.917577"
+  },
+  {
+    "names": "Antonio Pérez",
+    "latitude": "-2.203334",
+    "longitude": "-79.893804"
+  },
+  {
+    "names": "Lucía Sánchez",
+    "latitude": "-2.197322",
+    "longitude": "-79.886898"
+  },
+  {
+    "names": "Carlos Castro",
+    "latitude": "-2.216168",
+    "longitude": "-79.918206"
+  },
+  {
+    "names": "Elena González",
+    "latitude": "-2.207946",
+    "longitude": "-79.903121"
+  },
+  {
+    "names": "Javier Martínez",
+    "latitude": "-2.205759",
+    "longitude": "-79.898847"
+  },
+  {
+    "names": "Marta Díaz",
+    "latitude": "-2.198418",
+    "longitude": "-79.887934"
+  },
+  {
+    "names": "Héctor Sánchez",
+    "latitude": "-2.208659",
+    "longitude": "-79.904488"
+  },
+  {
+    "names": "María Ramírez",
+    "latitude": "-2.212850",
+    "longitude": "-79.914948"
+  }
+]
