@@ -38,5 +38,5 @@ class IndexView(TemplateView):
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         context['title'] = 'Marcadores con DataLayer'
-        context['KEY_GOOGLE_MAPS'] = 'AIzaSyAfCGh7iRpSHgViAJKJ2acg1-DtfVER5ww'
+        context['KEY_GOOGLE_MAPS'] = settings.env('API_KEY_GOOGLE_MAPS')
         return context
