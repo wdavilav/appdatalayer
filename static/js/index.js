@@ -60,4 +60,11 @@ var customer = {
 
 $(function () {
     customer.initMap();
+
+    $('input[name="chk-hide"]').on('change', function () {
+        var visible = this.checked;
+        map.data.forEach(function (feature) {
+            map.data.overrideStyle(feature, {visible: visible});
+        });
+    });
 });
